@@ -4,4 +4,4 @@ MonSurf is a Web surfing tool that searches for open/vulnerable IP Addresses, po
 ## Setup:
 1. download the repo.
 2. open up the directory and run pip install -r requirements.txt.
-3. now run the program using python monsurf.py
+3. now run the program using python MonSurf.py
